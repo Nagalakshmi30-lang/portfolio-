@@ -11,7 +11,7 @@
 
 ## About Me
 
-I am a passionate Software Developer with a strong interest in Python, SQL, Web Development, Artificial Intelligence, and Cloud Computing. I enjoy building real-world applications and continuously improving my technical skills through projects and hands-on learning.
+I am a passionate Software Developer with a strong interest in Python, SQL, Web Development. I enjoy building real-world applications and continuously improving my technical skills through projects and hands-on learning.
 
 ---
 
@@ -20,7 +20,6 @@ I am a passionate Software Developer with a strong interest in Python, SQL, Web 
 ### Programming Languages
 - Python
 - C++
-- C
 
 ### Web Technologies
 - HTML
@@ -28,7 +27,6 @@ I am a passionate Software Developer with a strong interest in Python, SQL, Web 
 
 ### Database
 - SQL
-- MySQL
 
 ### Tools
 - VS Code
@@ -36,7 +34,6 @@ I am a passionate Software Developer with a strong interest in Python, SQL, Web 
 
 ### Other Skills
 - System Design
-- Problem Solving
 
 ---
 
